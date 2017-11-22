@@ -13,5 +13,5 @@ $('#add_task').click(function(){
 CreateandAdd($('#add_task_input').val())
 }
 );
-CreateandAdd('Сделать задание №3 по web-программированию');
+CreateandAdd('Сделать задание #3 по web-программированию');
 })
