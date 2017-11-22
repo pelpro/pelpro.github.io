@@ -1,5 +1,5 @@
 $(document).ready(function(){
-$("#root").append("<ul type = "circle" id = "list"> </ul>")
+$("#root").append("<ul id = "list"> </ul>")
 $("#list").append("<li class = "element"><span>Сделать задание №3 по web-программированию</span></li>")
 $(".element").append("<button class = "deleteb">Удалить</button>")
 $("body").on("click", ".deleteb", function(){
