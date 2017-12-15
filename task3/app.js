@@ -15,3 +15,4 @@ CreateandAdd($('#add_task_input').val())
 );
 CreateandAdd("Сделать задание #3 по web-программированию");
 });
+
